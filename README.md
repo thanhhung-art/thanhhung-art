@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm thanh hung, a web developer.
 ##### I'm currently working on nextjs, nestjs, nodejs.
-##### I'm currently looking for a job
-##### If you need me, please contact thanhhungdeveloper@gmail.com
 
 <!--
 **thanhhung-art/thanhhung-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

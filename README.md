@@ -1,5 +1,20 @@
 ## Hi there 👋 I'm thanh hung, a web developer.
 ##### I'm currently working on nextjs, nestjs, nodejs.
+##### My skills is
+```
+HTML
+CSS
+Javascript
+Typescript
+Nodejs
+Nestjs
+Nextjs
+Reactjs
+Mongodb
+Git
+```
+##### I'm currently looking for a job
+##### If you need me, please contact thanhhungdeveloper@gmail.com
 ##### I'm currently learning rust, Angular, vue, flutter, web3.
 
 <!--

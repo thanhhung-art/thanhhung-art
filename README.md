@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 I'm thanh hung, a web developer.
+##### I'm currently working on nextjs, nestjs, nodejs.
+##### I'm currently learning rust, Angular, vue, flutter, web3.
 
 <!--
 **thanhhung-art/thanhhung-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
